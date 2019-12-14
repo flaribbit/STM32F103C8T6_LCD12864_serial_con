@@ -2,6 +2,9 @@
 #include "sys.h"
 #include "lcd12864.h"
 
+// #define LCD_RS PAout(0)
+// #define LCD_RW PAout(1)
+// #define LCD_EN PAout(2)
 
 void GPIO_Configuration(void);
 
